@@ -64,9 +64,17 @@ Ce projet a renforcé ma compréhension de la puissance architecturale de l'API 
 
 ## 5. Preuves de Test
 
-**(Veuillez ajouter des captures d'écran à ce document lors de l'exportation, couvrant :)**
-1. Le formulaire de connexion avec les erreurs de validation.
-2. Le tableau de bord avec le graphique linéaire et les KPI.
-3. La vue mobile montrant la navigation réduite.
-4. La liste des produits et la modale "Ajouter un produit".
-5. Le tableau des utilisateurs en mettant en évidence la modale de détails.
+**1. Le formulaire de connexion avec les erreurs de validation.**
+![Erreurs de connexion](./screenshots/1_login_errors.png)
+
+**2. Le tableau de bord avec le graphique linéaire et les KPI.**
+![Tableau de bord](./screenshots/2_dashboard_kpi.png)
+
+**3. La vue mobile montrant la navigation réduite.**
+![Vue Mobile](./screenshots/3_mobile_navigation.png)
+
+**4. La liste des produits et la modale "Ajouter un produit".**
+![Produits Modale](./screenshots/4_products_modal.png)
+
+**5. Le tableau des utilisateurs en mettant en évidence la modale de détails.**
+![Utilisateurs Modale](./screenshots/5_users_details.png)
